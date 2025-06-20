@@ -1,0 +1,1 @@
+const operate = (strategy, a, b) => strategy(a, b);
